@@ -1,4 +1,4 @@
-
+updated NordVPN Addon | simultaneous-connections + OpenVPN-support offers the most advanced NordVPN addon, with simultaneous-connections and OpenVPN-support. Ideal for users who
 
 
 
